@@ -1,0 +1,53 @@
+2021-11-19 20:18:25,326  INFO [main] BigSmall:30 - Browser Launched successfully
+2021-11-19 20:18:29,877  INFO [main] BigSmall:40 - Landing at Home Page
+2021-11-19 20:18:31,916  INFO [main] BigSmall:36 - Driver received from HomePageSD
+2021-11-19 20:18:36,439  INFO [main] BigSmall:44 - Successfully directed to Sign In Page
+2021-11-19 20:18:39,623  INFO [main] BigSmall:54 - Entered username-> 
+2021-11-19 20:18:39,697  INFO [main] BigSmall:57 - Entered password-> 
+2021-11-19 20:18:41,854  INFO [main] BigSmall:64 - Clicked on Submit button
+2021-11-19 20:18:45,873  INFO [main] BigSmall:36 - Driver received from HomePageSD
+2021-11-19 20:18:50,024  INFO [main] BigSmall:44 - Successfully directed to Sign In Page
+2021-11-19 20:18:53,131  INFO [main] BigSmall:54 - Entered username-> simon@123
+2021-11-19 20:18:53,213  INFO [main] BigSmall:57 - Entered password-> abcd
+2021-11-19 20:18:53,278  INFO [main] BigSmall:64 - Clicked on Submit button
+2021-11-19 20:18:57,307  INFO [main] BigSmall:36 - Driver received from HomePageSD
+2021-11-19 20:19:01,591  INFO [main] BigSmall:44 - Successfully directed to Sign In Page
+2021-11-19 20:19:04,708  INFO [main] BigSmall:54 - Entered username-> JackNJill@gmail.com
+2021-11-19 20:19:04,813  INFO [main] BigSmall:57 - Entered password-> JackNJill
+2021-11-19 20:19:04,891  INFO [main] BigSmall:64 - Clicked on Submit button
+2021-11-19 20:19:08,910  INFO [main] BigSmall:38 - Received driver from LoginSD
+2021-11-19 20:19:13,009  INFO [main] BigSmall:50 - Clicked on Personalized Gifts
+2021-11-19 20:19:13,085  INFO [main] BigSmall:58 - Clicked on Sortby
+2021-11-19 20:19:15,088  INFO [main] BigSmall:64 - Clicked on Hgih to Low
+2021-11-19 20:19:15,226  INFO [main] BigSmall:71 - Successfully Sorted Products High to Low based on price
+2021-11-19 20:19:17,246  INFO [main] BigSmall:37 - Received driver form Personalized Gift
+2021-11-19 20:19:17,246  INFO [main] BigSmall:45 - Search Box Activated
+2021-11-19 20:19:19,382  INFO [main] BigSmall:54 - product name has been sent to search box
+2021-11-19 20:19:19,383  INFO [main] BigSmall:59 - Successfully searched product - Diary
+2021-11-19 20:19:19,532  INFO [main] BigSmall:66 - Successfully verified products are displayed
+2021-11-19 20:19:21,542  INFO [main] BigSmall:32 - Received Driver from SearchSD
+2021-11-19 20:19:23,787  INFO [main] BigSmall:42 - Successfully navigated to Christmas Gifts
+2021-11-19 20:19:27,914  INFO [main] BigSmall:50 - Selected first product
+2021-11-19 20:19:28,484  INFO [main] BigSmall:57 - Added product to cart
+2021-11-19 20:19:28,871  INFO [main] BigSmall:63 - Clicked on Checkout
+2021-11-19 20:19:30,955  INFO [main] BigSmall:71 - Closed pop up after dsiplay
+2021-11-19 20:19:38,937  INFO [main] BigSmall:81 - Proceeded to checkout and returned to cart
+2021-11-19 20:19:40,958  INFO [main] BigSmall:32 - Received driver from Christmas Gift
+2021-11-19 20:19:43,173  INFO [main] BigSmall:44 - Clicked On Shop By Category Drop Down
+2021-11-19 20:19:45,615  INFO [main] BigSmall:51 - Selected 18th Birthday Gift
+2021-11-19 20:19:47,617  INFO [main] BigSmall:53 - selected 18th Birthday Gift
+2021-11-19 20:19:53,485  INFO [main] BigSmall:60 - Clicked On First Shop Product
+2021-11-19 20:19:54,060  INFO [main] BigSmall:67 - Clicked On Add to Wishlist
+2021-11-19 20:19:54,091  INFO [main] BigSmall:74 - Successfully Added Product to Wishlist
+2021-11-19 20:19:56,095  INFO [main] BigSmall:32 - Received driver from Shop By Category
+2021-11-19 20:20:00,129  INFO [main] BigSmall:43 - Navigated to All of it Page
+2021-11-19 20:20:00,179  INFO [main] BigSmall:51 - Verified Auto Rickshaw Pen Stand
+2021-11-19 20:20:02,186  INFO [main] BigSmall:32 - Received driver from AllofItSD
+2021-11-19 20:20:07,619  INFO [main] BigSmall:45 - Wishlist Page
+2021-11-19 20:20:09,730  INFO [main] BigSmall:60 - Products are displayed in Wishlist
+2021-11-19 20:20:11,751  INFO [main] BigSmall:30 - Received driver from GiftCardSD
+2021-11-19 20:20:13,771  INFO [main] BigSmall:30 - Received driver from WishlistSD
+2021-11-19 20:20:15,988  INFO [main] BigSmall:41 - Gift Cards Page
+2021-11-19 20:20:18,162  INFO [main] BigSmall:49 - Added Gift Card to cart
+2021-11-19 20:20:18,193  INFO [main] BigSmall:56 - Verified cart
+2021-11-19 20:20:20,266  INFO [main] ContactUsSD:34 - Received driver from AboutUsSD

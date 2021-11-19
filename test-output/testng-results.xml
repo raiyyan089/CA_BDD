@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-19T14:57:22Z" name="Suite" finished-at="2021-11-19T14:58:57Z" duration-ms="94951">
+    <groups>
+    </groups>
+    <test started-at="2021-11-19T14:57:22Z" name="Test" finished-at="2021-11-19T14:58:57Z" duration-ms="94951">
+      <class name="runnerTestNG.BigSmall">
+        <test-method signature="HomePageLanding()[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:27:22Z" name="HomePageLanding" finished-at="2021-11-19T20:27:27Z" duration-ms="5118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageLanding -->
+        <test-method signature="LoginPage(java.lang.String, java.lang.String)[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:27:28Z" name="LoginPage" data-provider="dataSuplier" finished-at="2021-11-19T20:27:39Z" duration-ms="11513" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method signature="LoginPage(java.lang.String, java.lang.String)[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:27:40Z" name="LoginPage" data-provider="dataSuplier" finished-at="2021-11-19T20:27:49Z" duration-ms="9578" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[simon@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method signature="LoginPage(java.lang.String, java.lang.String)[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:27:49Z" name="LoginPage" data-provider="dataSuplier" finished-at="2021-11-19T20:27:59Z" duration-ms="9491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JackNJill@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[JackNJill@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method signature="PersonalizedPage()[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:27:59Z" name="PersonalizedPage" finished-at="2021-11-19T20:28:04Z" duration-ms="4336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalizedPage -->
+        <test-method signature="Search()[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:28:04Z" name="Search" finished-at="2021-11-19T20:28:08Z" duration-ms="3714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="ChristmasGift()[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:28:08Z" name="ChristmasGift" finished-at="2021-11-19T20:28:22Z" duration-ms="13863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChristmasGift -->
+        <test-method signature="ShopByPage()[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:28:22Z" name="ShopByPage" finished-at="2021-11-19T20:28:35Z" duration-ms="13208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShopByPage -->
+        <test-method signature="AllofIt()[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:28:36Z" name="AllofIt" finished-at="2021-11-19T20:28:39Z" duration-ms="3968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllofIt -->
+        <test-method signature="Wishlist()[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:28:40Z" name="Wishlist" finished-at="2021-11-19T20:28:47Z" duration-ms="7300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Wishlist -->
+        <test-method signature="AboutUs()[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:28:47Z" name="AboutUs" finished-at="2021-11-19T20:28:49Z" duration-ms="1358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutUs -->
+        <test-method signature="GiftCard()[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:28:49Z" name="GiftCard" finished-at="2021-11-19T20:28:53Z" duration-ms="4020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCard -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:runnerTestNG.BigSmall@a87f8ec]" started-at="2021-11-19T20:28:53Z" name="closeDriver" finished-at="2021-11-19T20:28:57Z" duration-ms="4152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- runnerTestNG.BigSmall -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

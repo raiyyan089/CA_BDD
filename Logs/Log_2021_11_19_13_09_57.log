@@ -1,0 +1,8 @@
+2021-11-19 21:13:59,953  INFO [main] BigSmall:30 - Browser Launched successfully
+2021-11-19 21:14:02,920  INFO [main] BigSmall:36 - Driver received from HomePageSD
+2021-11-19 21:14:20,203  INFO [main] BigSmall:36 - Driver received from HomePageSD
+2021-11-19 21:14:37,399  INFO [main] BigSmall:36 - Driver received from HomePageSD
+2021-11-19 21:14:54,561  INFO [main] BigSmall:38 - Received driver from LoginSD
+2021-11-19 21:15:08,737  INFO [main] BigSmall:37 - Received driver form Personalized Gift
+2021-11-19 21:15:08,738  INFO [main] BigSmall:45 - Search Box Activated
+2021-11-19 21:15:23,499  INFO [main] BigSmall:32 - Received Driver from SearchSD

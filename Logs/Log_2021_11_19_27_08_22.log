@@ -1,0 +1,40 @@
+2021-11-19 20:27:27,925  INFO [main] BigSmall:75 - Landing at Home Page
+2021-11-19 20:27:32,972  INFO [main] BigSmall:88 - Successfully directed to Sign In Page
+2021-11-19 20:27:36,061  INFO [main] BigSmall:96 - Entered username-> 
+2021-11-19 20:27:36,190  INFO [main] BigSmall:99 - Entered password-> 
+2021-11-19 20:27:37,929  INFO [main] BigSmall:101 - Clicked on Submit button
+2021-11-19 20:27:44,375  INFO [main] BigSmall:88 - Successfully directed to Sign In Page
+2021-11-19 20:27:47,483  INFO [main] BigSmall:96 - Entered username-> simon@123
+2021-11-19 20:27:47,563  INFO [main] BigSmall:99 - Entered password-> abcd
+2021-11-19 20:27:47,630  INFO [main] BigSmall:101 - Clicked on Submit button
+2021-11-19 20:27:54,103  INFO [main] BigSmall:88 - Successfully directed to Sign In Page
+2021-11-19 20:27:57,205  INFO [main] BigSmall:96 - Entered username-> JackNJill@gmail.com
+2021-11-19 20:27:57,339  INFO [main] BigSmall:99 - Entered password-> JackNJill@123
+2021-11-19 20:27:57,422  INFO [main] BigSmall:101 - Clicked on Submit button
+2021-11-19 20:28:04,093  INFO [main] BigSmall:116 - Successfully Sorted Products High to Low based on price
+2021-11-19 20:28:07,700  INFO [main] BigSmall:130 - Successfully searched product - Diary
+2021-11-19 20:28:08,170  INFO [main] BigSmall:134 - Successfully verified products are displayed
+2021-11-19 20:28:10,299  INFO [main] BigSmall:141 - Successfully navigated to Christmas Gifts
+2021-11-19 20:28:15,050  INFO [main] BigSmall:147 - Added product to cart
+2021-11-19 20:28:22,290  INFO [main] BigSmall:154 - Proceeded to checkout and returned to cart
+2021-11-19 20:28:27,269  INFO [main] BigSmall:164 - Selected 18th Birthday Gift
+2021-11-19 20:28:35,655  INFO [main] BigSmall:172 - Successfully Added Product to Wishlist
+2021-11-19 20:28:39,931  INFO [main] BigSmall:181 - Navigated to All of it Page
+2021-11-19 20:28:39,974  INFO [main] BigSmall:184 - Verified Auto Rickshaw Pen Stand
+2021-11-19 20:28:45,486  INFO [main] BigSmall:192 - Wishlist Page
+2021-11-19 20:28:47,594  INFO [main] BigSmall:199 - Products are displayed in Wishlist
+2021-11-19 20:28:49,060  INFO [main] BigSmall:206 - About Us Page
+2021-11-19 20:28:49,107  INFO [main] BigSmall:209 - Verified title of About Us Page
+2021-11-19 20:28:51,150  INFO [main] BigSmall:216 - Gift Cards Page
+2021-11-19 20:28:53,299  INFO [main] BigSmall:220 - Added Gift Card to cart
+2021-11-19 20:28:53,330  INFO [main] BigSmall:223 - Verified cart
+2021-11-19 20:28:57,942 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-19 20:28:57,942 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-19 20:28:57,942 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-19 20:28:57,942 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-19 20:28:57,942 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/segas/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-19 20:28:58,091 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-19 20:28:58,091 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-19 20:28:58,091 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-19 20:28:58,091 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-19 20:28:58,091 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/segas/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
