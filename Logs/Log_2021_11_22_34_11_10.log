@@ -1,0 +1,17 @@
+2021-11-22 23:34:23,378  INFO [main] BigSmall:74 - Landing at Home Page
+2021-11-22 23:34:29,968  INFO [main] BigSmall:87 - Successfully directed to Sign In Page
+2021-11-22 23:34:33,334  INFO [main] BigSmall:95 - Entered username-> 
+2021-11-22 23:34:33,547  INFO [main] BigSmall:98 - Entered password-> 
+2021-11-22 23:34:35,757  INFO [main] BigSmall:100 - Clicked on Submit button
+2021-11-22 23:34:42,524  INFO [main] BigSmall:87 - Successfully directed to Sign In Page
+2021-11-22 23:34:45,822  INFO [main] BigSmall:95 - Entered username-> simon@123
+2021-11-22 23:34:46,074  INFO [main] BigSmall:98 - Entered password-> abcd
+2021-11-22 23:34:46,385  INFO [main] BigSmall:100 - Clicked on Submit button
+2021-11-22 23:34:54,433  INFO [main] BigSmall:87 - Successfully directed to Sign In Page
+2021-11-22 23:34:57,842  INFO [main] BigSmall:95 - Entered username-> JackNJill@gmail.com
+2021-11-22 23:34:58,226  INFO [main] BigSmall:98 - Entered password-> JackNJill@123
+2021-11-22 23:34:58,413  INFO [main] BigSmall:100 - Clicked on Submit button
+2021-11-22 23:35:08,658  INFO [main] BigSmall:115 - Successfully Sorted Products High to Low based on price
+2021-11-22 23:35:17,569  INFO [main] BigSmall:129 - Successfully searched product - Diary
+2021-11-22 23:35:18,029  INFO [main] BigSmall:133 - Successfully verified products are displayed
+2021-11-22 23:35:19,996  INFO [main] BigSmall:140 - Successfully navigated to Christmas Gifts

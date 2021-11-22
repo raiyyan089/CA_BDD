@@ -10,4 +10,4 @@ Examples:
 	| username				| password		|
 	|           			|           	|
 	| simon@123 			| abcd      	|
-	| JackNJill@gmail.com	| JackNJill 	|
+	| JackNJill@gmail.com	| JackNJill@123	|
